@@ -1,0 +1,17 @@
+.btn {
+    background: pink;
+    border: 2px solid rgba(191, 0, 89, 0.307);
+    padding: 1%;
+    color: rgb(151, 0, 83);
+    border-radius: 10px;
+    font-weight: bolder;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    color: rgb(255, 145, 226);
+    background-color: deeppink;
+    transition-duration: 0.5s;
+    transform: translateY(-7px);
+}

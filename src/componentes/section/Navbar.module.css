@@ -1,0 +1,19 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+}
+
+.navbar ul {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+}
+
+.navbar li {
+    margin: 10px;
+}
+
+.navbar a {
+    color: rgb(202, 0, 142) !important;
+}
